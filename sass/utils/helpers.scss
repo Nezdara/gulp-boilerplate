@@ -1,0 +1,23 @@
+@media only screen and (device-aspect-ratio: 2/3),
+only screen and (device-aspect-ratio: 40/71),
+only screen and (device-aspect-ratio: 375/667),
+only screen and (device-aspect-ratio: 9/16) {
+  select,
+  select:focus,
+  textarea,
+  textarea:focus,
+  input[type="text"],
+  input[type="tel"],
+  input[type="password"],
+  input[type="datetime"],
+  input[type="datetime-local"],
+  input[type="date"],
+  input[type="month"],
+  input[type="time"],
+  input[type="week"],
+  input[type="number"],
+  input[type="email"],
+  input[type="url"] {
+    font-size: 16px !important;
+  }
+}
