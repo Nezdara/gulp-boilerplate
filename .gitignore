@@ -1,0 +1,10 @@
+/node_modules/
+/resource/
+.DS_Store
+Thumbs.db
+.idea
+*.sublime*
+*.log
+*.psd
+*.ai
+*.pdf
